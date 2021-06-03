@@ -1,5 +1,9 @@
 # javascript
-_Javascript Guide_
+_Javascript Basic Guide_
+
+**var, let, const**
+
+https://velog.io/@bathingape/JavaScript-var-let-const-%EC%B0%A8%EC%9D%B4%EC%A0%90
 
 **Array**
 
