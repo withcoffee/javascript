@@ -6,3 +6,8 @@ _Javascript Guide_
 Array.prototype.every()
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/every
+
+Function
+
+Arrow function
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/every
